@@ -1,6 +1,6 @@
-# untitled
+# Contador
 
-A new Flutter project.
+Projeto de oferecimento ao curso da Startte.dev
 
 ## Getting Started
 
